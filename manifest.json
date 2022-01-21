@@ -8,8 +8,6 @@
     },
     "permissions": [
         "downloads",
-        "notifications",
-        "tabs",
-        "contextMenus"
+        "notifications"
     ]
 }
